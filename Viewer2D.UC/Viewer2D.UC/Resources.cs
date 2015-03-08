@@ -8,7 +8,7 @@ namespace Viewer2D.UC
     //TODO: Localize all the resources
 
     /// <summary>
-    /// 
+    /// Contains resources for UserControl 'Viewer2D'
     /// </summary>
     class Resources
     {

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer2D.UC", "Viewer2D.Test\Viewer2D.UC.csproj", "{F11E8AF5-DFFA-4B02-9E3E-D12EC95F039A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer2D.UC", "Viewer2D.UC\Viewer2D.UC.csproj", "{F11E8AF5-DFFA-4B02-9E3E-D12EC95F039A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer2D.TestClientApp", "Viewer2D.TestClientApp\Viewer2D.TestClientApp.csproj", "{59495705-0384-4B1E-B353-CEE10097E852}"
 EndProject

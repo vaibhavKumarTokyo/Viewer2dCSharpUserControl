@@ -109,7 +109,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Viewer2D.Test\Viewer2D.UC.csproj">
+    <ProjectReference Include="..\Viewer2D.UC\Viewer2D.UC.csproj">
       <Project>{F11E8AF5-DFFA-4B02-9E3E-D12EC95F039A}</Project>
       <Name>Viewer2D.UC</Name>
     </ProjectReference>
